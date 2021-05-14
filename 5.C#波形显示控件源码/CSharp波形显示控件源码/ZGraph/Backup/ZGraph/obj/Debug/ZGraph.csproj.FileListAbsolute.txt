@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\ourdev_693776CBXH2V\ZGraph\Backup\ZGraph\bin\Debug\ZGraph.dll
+C:\Users\Administrator\Desktop\ourdev_693776CBXH2V\ZGraph\Backup\ZGraph\bin\Debug\ZGraph.pdb
+C:\Users\Administrator\Desktop\ourdev_693776CBXH2V\ZGraph\Backup\ZGraph\obj\Debug\ZhengJuyin.UI.ZGraph.resources
+C:\Users\Administrator\Desktop\ourdev_693776CBXH2V\ZGraph\Backup\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ourdev_693776CBXH2V\ZGraph\Backup\ZGraph\obj\Debug\ZGraph.dll
+C:\Users\Administrator\Desktop\ourdev_693776CBXH2V\ZGraph\Backup\ZGraph\obj\Debug\ZGraph.pdb

@@ -1,0 +1,14 @@
+C:\Users\XiaoLiangXie\Desktop\DC_POWER\DC_POWER\DC_POWER\bin\Debug\DC_POWER.exe.config
+J:\workspace\C#\DC_POWER\DC_POWER\bin\Debug\DC_POWER.exe.config
+J:\workspace\C#\DC_POWER\DC_POWER\bin\Debug\DC_POWER.exe
+J:\workspace\C#\DC_POWER\DC_POWER\bin\Debug\DC_POWER.pdb
+J:\workspace\C#\DC_POWER\DC_POWER\bin\Debug\Knob.dll
+J:\workspace\C#\DC_POWER\DC_POWER\bin\Debug\System.Windows.Forms.Ribbon35.dll
+J:\workspace\C#\DC_POWER\DC_POWER\bin\Debug\ZedGraph.dll
+J:\workspace\C#\DC_POWER\DC_POWER\obj\Debug\DC_POWER.csprojResolveAssemblyReference.cache
+J:\workspace\C#\DC_POWER\DC_POWER\obj\Debug\DC_POWER.Mainform.resources
+J:\workspace\C#\DC_POWER\DC_POWER\obj\Debug\DC_POWER.Properties.Resources.resources
+J:\workspace\C#\DC_POWER\DC_POWER\obj\Debug\DC_POWER.csproj.GenerateResource.Cache
+J:\workspace\C#\DC_POWER\DC_POWER\obj\Debug\DC_POWER.exe
+J:\workspace\C#\DC_POWER\DC_POWER\obj\Debug\DC_POWER.pdb
+J:\workspace\C#\DC_POWER\DC_POWER\bin\Debug\LBIndustrialCtrls.dll

@@ -1,0 +1,13 @@
+J:\workspace\C#\DC_POWER\SlideButton\bin\Release\SlideButton.dll
+J:\workspace\C#\DC_POWER\SlideButton\bin\Release\SlideButton.pdb
+J:\workspace\C#\DC_POWER\SlideButton\obj\Release\SlideButton.csprojResolveAssemblyReference.cache
+J:\workspace\C#\DC_POWER\SlideButton\obj\Release\SlideButton.Properties.Resources.resources
+J:\workspace\C#\DC_POWER\SlideButton\obj\Release\SlideButton.csproj.GenerateResource.Cache
+J:\workspace\C#\DC_POWER\SlideButton\obj\Release\SlideButton.dll
+J:\workspace\C#\DC_POWER\SlideButton\obj\Release\SlideButton.pdb
+J:\workspace\C_Sharp\DC_POWER\SlideButton\bin\Release\SlideButton.dll
+J:\workspace\C_Sharp\DC_POWER\SlideButton\bin\Release\SlideButton.pdb
+J:\workspace\C_Sharp\DC_POWER\SlideButton\obj\Release\SlideButton.Properties.Resources.resources
+J:\workspace\C_Sharp\DC_POWER\SlideButton\obj\Release\SlideButton.csproj.GenerateResource.Cache
+J:\workspace\C_Sharp\DC_POWER\SlideButton\obj\Release\SlideButton.dll
+J:\workspace\C_Sharp\DC_POWER\SlideButton\obj\Release\SlideButton.pdb

@@ -1,0 +1,28 @@
+D:\Backup\我的文档\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Backup\我的文档\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Backup\我的文档\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Backup\我的文档\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Backup\我的文档\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Backup\我的文档\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Backup\我的文档\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Backup\我的文档\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Backup\我的文档\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Backup\我的文档\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\WindowsForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\WindowsForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\WindowsForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\BaiduNetdiskDownload\【1】C#串口通讯视频（先看这个）\C#工程源码\2.C#串口波形和数据都可显示红旗\串口波形和数据都可显示\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\BaiduNetdiskDownload\【1】C#串口通讯视频（先看这个）\C#工程源码\2.C#串口波形和数据都可显示红旗\串口波形和数据都可显示\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\BaiduNetdiskDownload\【1】C#串口通讯视频（先看这个）\C#工程源码\2.C#串口波形和数据都可显示红旗\串口波形和数据都可显示\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\BaiduNetdiskDownload\【1】C#串口通讯视频（先看这个）\C#工程源码\2.C#串口波形和数据都可显示红旗\串口波形和数据都可显示\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\BaiduNetdiskDownload\【1】C#串口通讯视频（先看这个）\C#工程源码\2.C#串口波形和数据都可显示红旗\串口波形和数据都可显示\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\BaiduNetdiskDownload\【1】C#串口通讯视频（先看这个）\C#工程源码\2.C#串口波形和数据都可显示红旗\串口波形和数据都可显示\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\BaiduNetdiskDownload\【1】C#串口通讯视频（先看这个）\C#工程源码\2.C#串口波形和数据都可显示红旗\串口波形和数据都可显示\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\BaiduNetdiskDownload\【1】C#串口通讯视频（先看这个）\C#工程源码\2.C#串口波形和数据都可显示红旗\串口波形和数据都可显示\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\BaiduNetdiskDownload\【1】C#串口通讯视频（先看这个）\C#工程源码\2.C#串口波形和数据都可显示红旗\串口波形和数据都可显示\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

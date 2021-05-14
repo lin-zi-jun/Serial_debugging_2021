@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\PLC_COM\PLC_COM\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\PLC_COM\PLC_COM\obj\Debug\PLC_COM.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\PLC_COM\PLC_COM\obj\Debug\PLC_COM.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\PLC_COM\PLC_COM\obj\Debug\PLC_COM.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\PLC_COM\PLC_COM\bin\Debug\PLC_COM.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\PLC_COM\PLC_COM\bin\Debug\PLC_COM.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\PLC_COM\PLC_COM\obj\Debug\PLC_COM.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\PLC_COM\PLC_COM\obj\Debug\PLC_COM.pdb

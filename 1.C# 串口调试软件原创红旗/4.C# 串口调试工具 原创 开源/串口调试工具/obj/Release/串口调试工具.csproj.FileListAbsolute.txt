@@ -1,0 +1,22 @@
+F:\C#\串口调试工具\V1.0\串口调试工具\bin\Release\串口调试工具.exe.config
+F:\C#\串口调试工具\V1.0\串口调试工具\bin\Release\串口调试工具.exe
+F:\C#\串口调试工具\V1.0\串口调试工具\bin\Release\串口调试工具.pdb
+F:\C#\串口调试工具\V1.0\串口调试工具\obj\Release\ResolveAssemblyReference.cache
+F:\C#\串口调试工具\V1.0\串口调试工具\obj\Release\串口调试工具.AboutSoftware.resources
+F:\C#\串口调试工具\V1.0\串口调试工具\obj\Release\串口调试工具.CheckUpdate.resources
+F:\C#\串口调试工具\V1.0\串口调试工具\obj\Release\串口调试工具.ContactMe.resources
+F:\C#\串口调试工具\V1.0\串口调试工具\obj\Release\串口调试工具.MainForm.resources
+F:\C#\串口调试工具\V1.0\串口调试工具\obj\Release\串口调试工具.Properties.Resources.resources
+F:\C#\串口调试工具\V1.0\串口调试工具\obj\Release\串口调试工具.csproj.GenerateResource.Cache
+F:\C#\串口调试工具\V1.0\串口调试工具\obj\Release\串口调试工具.exe
+F:\C#\串口调试工具\V1.0\串口调试工具\obj\Release\串口调试工具.pdb
+E:\BaiduYunDownload\4.C# 串口调试工具 原创 开源\串口调试工具\bin\Release\串口调试工具.exe.config
+E:\BaiduYunDownload\4.C# 串口调试工具 原创 开源\串口调试工具\obj\Release\串口调试工具.exe
+E:\BaiduYunDownload\4.C# 串口调试工具 原创 开源\串口调试工具\obj\Release\串口调试工具.pdb
+E:\BaiduYunDownload\4.C# 串口调试工具 原创 开源\串口调试工具\bin\Release\串口调试工具.exe
+E:\BaiduYunDownload\4.C# 串口调试工具 原创 开源\串口调试工具\bin\Release\串口调试工具.pdb
+E:\BaiduYunDownload\4.C# 串口调试工具 原创 开源\串口调试工具\obj\Release\串口调试工具.AboutSoftware.resources
+E:\BaiduYunDownload\4.C# 串口调试工具 原创 开源\串口调试工具\obj\Release\串口调试工具.CheckUpdate.resources
+E:\BaiduYunDownload\4.C# 串口调试工具 原创 开源\串口调试工具\obj\Release\串口调试工具.MainForm.resources
+E:\BaiduYunDownload\4.C# 串口调试工具 原创 开源\串口调试工具\obj\Release\串口调试工具.Properties.Resources.resources
+E:\BaiduYunDownload\4.C# 串口调试工具 原创 开源\串口调试工具\obj\Release\串口调试工具.csproj.GenerateResource.Cache

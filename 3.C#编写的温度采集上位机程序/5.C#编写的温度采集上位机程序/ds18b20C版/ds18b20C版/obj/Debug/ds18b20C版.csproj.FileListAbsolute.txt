@@ -1,0 +1,14 @@
+E:\BaiduYunDownload\5.C#编写的温度采集上位机程序\ds18b20C版\ds18b20C版\obj\Debug\ds18b20C版.csproj.ResolveComReference.cache
+E:\BaiduYunDownload\5.C#编写的温度采集上位机程序\ds18b20C版\ds18b20C版\obj\Debug\ds18b20C版.exe
+E:\BaiduYunDownload\5.C#编写的温度采集上位机程序\ds18b20C版\ds18b20C版\obj\Debug\ds18b20C版.pdb
+E:\BaiduYunDownload\5.C#编写的温度采集上位机程序\ds18b20C版\ds18b20C版\bin\Debug\ds18b20C版.exe.config
+E:\BaiduYunDownload\5.C#编写的温度采集上位机程序\ds18b20C版\ds18b20C版\bin\Debug\ds18b20C版.exe.manifest
+E:\BaiduYunDownload\5.C#编写的温度采集上位机程序\ds18b20C版\ds18b20C版\bin\Debug\ds18b20C版.application
+E:\BaiduYunDownload\5.C#编写的温度采集上位机程序\ds18b20C版\ds18b20C版\bin\Debug\ds18b20C版.exe
+E:\BaiduYunDownload\5.C#编写的温度采集上位机程序\ds18b20C版\ds18b20C版\bin\Debug\ds18b20C版.pdb
+E:\BaiduYunDownload\5.C#编写的温度采集上位机程序\ds18b20C版\ds18b20C版\obj\Debug\ds18b20C版.csprojResolveAssemblyReference.cache
+E:\BaiduYunDownload\5.C#编写的温度采集上位机程序\ds18b20C版\ds18b20C版\obj\Debug\WindowsApplication1.Form1.resources
+E:\BaiduYunDownload\5.C#编写的温度采集上位机程序\ds18b20C版\ds18b20C版\obj\Debug\WindowsApplication1.Properties.Resources.resources
+E:\BaiduYunDownload\5.C#编写的温度采集上位机程序\ds18b20C版\ds18b20C版\obj\Debug\ds18b20C版.csproj.GenerateResource.Cache
+E:\BaiduYunDownload\5.C#编写的温度采集上位机程序\ds18b20C版\ds18b20C版\obj\Debug\ds18b20C版.exe.manifest
+E:\BaiduYunDownload\5.C#编写的温度采集上位机程序\ds18b20C版\ds18b20C版\obj\Debug\ds18b20C版.application

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="ds18b20C版.exe" version="1.0.0.0" publicKeyToken="8a0bbe605c1e0fc6" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="sync.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ds18b20C版" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ds18b20C版.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.StdFormat" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="stdole" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ds18b20C版.exe" size="126976">
+      <assemblyIdentity name="ds18b20C版" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>i+XBNO9AuoX+ktOLlmFEg1TKVWA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ZedGraph.dll" size="311296">
+      <assemblyIdentity name="ZedGraph" version="5.1.2.878" publicKeyToken="02A83CBD123FCD60" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>jEx48giTomWn7sr6QWr9Ke98CTk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="sync.ico" size="99678">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>YQTjCBrgXdDG1isp34yqzylKH+w=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=87B73FBC5294435\YUANRUOWEI" issuerKeyHash="c768601665be75eddee639f16bf2b862f87b9a2b" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>7iXxn3AXLyVmeHmlfQYbq5WfFOw=</DigestValue></Reference></SignedInfo><SignatureValue>N92qVkDDFKRQCU2/cazN6je8Yi29yg/KSf8Hdg3Isv62GniQaKf8e35lPd5QsW0K58ro8KPGEMKuOQSGx9rCNzoLLVTtjhUUogy0+8iZIv+sP3hE4J4gpRPmmUDdZB5X+WPb5puHXJH71Noicd181R3q11XW1ViPbK99nBRZcRQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>9FSD1QtFAI4X6LKKKxz9PQrYx8FSBnwkCCWKRBT6r1oMn5a1pfXeoQz4+yPUJNq6YrhePOf1ZgRq6Mz9bPEwp0k4OyDY79azPfMX7ou5sV11oSLSuElkzjTCWnRXJj/31Fjd+DJfsHfr45tVU7dbb5c7SHbNcPGXnCy0twJYoS0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ec149f95ab1b067da5797866252f17709ff125ee" Description="" Url=""><as:assemblyIdentity name="ds18b20C版.exe" version="1.0.0.0" publicKeyToken="8a0bbe605c1e0fc6" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=87B73FBC5294435\YUANRUOWEI</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>V8+LgH3BAe4LIAfAxSrCBMH4xQA=</DigestValue></Reference></SignedInfo><SignatureValue>bzhvcUGCxUoXGk266thnh9S3xVshQQPKsfELs7lp/SpjcYhANvrSsiHE2ApIiYtAmvozaMwJDMXzGcWMylgfy4dD83p1tQg7FraP0pAkN8N1D/Anw3wsQB56iSFahFzXB6tNuYY02d6LxkeVWPO2n7D2lSEOsdk60MLieLdL9Aw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>9FSD1QtFAI4X6LKKKxz9PQrYx8FSBnwkCCWKRBT6r1oMn5a1pfXeoQz4+yPUJNq6YrhePOf1ZgRq6Mz9bPEwp0k4OyDY79azPfMX7ou5sV11oSLSuElkzjTCWnRXJj/31Fjd+DJfsHfr45tVU7dbb5c7SHbNcPGXnCy0twJYoS0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB+TCCAWagAwIBAgIQnzsEyAuwHrZLfwd+lM82zzAJBgUrDgMCHQUAMD8xPTA7BgNVBAMeNAA4ADcAQgA3ADMARgBCAEMANQAyADkANAA0ADMANQBcAFkAVQBBAE4AUgBVAE8AVwBFAEkwHhcNMDgwMjA2MTYxNzQxWhcNMDkwMjA1MjIxNzQxWjA/MT0wOwYDVQQDHjQAOAA3AEIANwAzAEYAQgBDADUAMgA5ADQANAAzADUAXABZAFUAQQBOAFIAVQBPAFcARQBJMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD0VIPVC0UAjhfosoorHP09CtjHwVIGfCQIJYpEFPqvWgyflrWl9d6hDPj7I9Qk2rpiuF485/VmBGrozP1s8TCnSTg7INjv1rM98xfui7mxXXWhItK4SWTONMJadFcmP/fUWN34Ml+wd+vjm1VTt1tvlztIds1w8ZecLLS3AlihLQIDAQABMAkGBSsOAwIdBQADgYEAwhnU3TRoqNVm6B0zVnrsnev7JaEWoTmlhWus7L46ajVrkLHkMZFC+Rkt3o/3tSi/UJGa5o/xwHJDXecYqtCJBR9NTUA6LhkcwxilCBDn6qJMD7/bXu/Pfqw5Chn3su5ihO51cyjf/DYXUZq6TsC3Yb+/JnbBO3H4t4bR2DIGZKQ=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

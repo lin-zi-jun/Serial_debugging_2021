@@ -1,0 +1,1 @@
+https://www.codeproject.com/articles/678025/serial-comms-in-csharp-for-beginners

@@ -1,0 +1,19 @@
+E:\Documents\PC Program\CSharp波形显示控件源码\Test\bin\Debug\Test.exe
+E:\Documents\PC Program\CSharp波形显示控件源码\Test\bin\Debug\Test.pdb
+E:\Documents\PC Program\CSharp波形显示控件源码\Test\bin\Debug\ZGraph.dll
+E:\Documents\PC Program\CSharp波形显示控件源码\Test\bin\Debug\ZGraph.xml
+E:\Documents\PC Program\CSharp波形显示控件源码\Test\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\PC Program\CSharp波形显示控件源码\Test\obj\Debug\Test.FormTest.resources
+E:\Documents\PC Program\CSharp波形显示控件源码\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Documents\PC Program\CSharp波形显示控件源码\Test\obj\Debug\Test.exe
+E:\Documents\PC Program\CSharp波形显示控件源码\Test\obj\Debug\Test.pdb
+C:\Users\Administrator\Desktop\ourdev_693776CBXH2V\Test\obj\Debug\Test.exe
+C:\Users\Administrator\Desktop\ourdev_693776CBXH2V\Test\obj\Debug\Test.pdb
+C:\Users\Administrator\Desktop\ourdev_693776CBXH2V\Test\bin\Debug\Test.exe
+C:\Users\Administrator\Desktop\ourdev_693776CBXH2V\Test\bin\Debug\Test.pdb
+C:\Users\Administrator\Desktop\ourdev_693776CBXH2V\Test\bin\Debug\ZGraph.dll
+C:\Users\Administrator\Desktop\ourdev_693776CBXH2V\Test\bin\Debug\ZGraph.xml
+C:\Users\Administrator\Desktop\ourdev_693776CBXH2V\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ourdev_693776CBXH2V\Test\obj\Debug\Test.FormTest.resources
+C:\Users\Administrator\Desktop\ourdev_693776CBXH2V\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ourdev_693776CBXH2V\Test\obj\Debug\Test.csproj.GenerateResource.Cache
